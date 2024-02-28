@@ -1,2 +1,2 @@
-DOG barks well 4
-Cat mehow well 4
+DOG barks well 6
+Cat mehow well 6
